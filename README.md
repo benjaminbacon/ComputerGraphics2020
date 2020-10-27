@@ -20,7 +20,7 @@ More about openFrameworks: <br>
 ●	https://openframeworks.cc/zh_cn/
 
 _Credits:_
-_The content of this course is greatly indebted to [Tyler Henry](http://tylerhenry.com), [Regina Flores Mir](http://www.reginafloresmir.com/),  [AlgoSims2016](https://github.com/reginaflores/AlgoSims2016), [Bryan Ma](http://bryan-ma.com/), [Bernardo Schorr](http://www.bernardoschorr.com/), [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/), everyone at Parsons Design + Technology as well as the work of [Zach Leiberman](http://sfpc.io/), and countless other contributors to the OpenFrameworks community._  
+_The content of this course is greatly indebted to [Tyler Henry](http://tylerhenry.com) from which much of this course originates, [Regina Flores Mir](http://www.reginafloresmir.com/),  [AlgoSims2016](https://github.com/reginaflores/AlgoSims2016), [Bryan Ma](http://bryan-ma.com/), [Bernardo Schorr](http://www.bernardoschorr.com/), [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/), everyone at Parsons Design + Technology as well as the work of [Zach Leiberman](http://sfpc.io/), and countless other contributors to the OpenFrameworks community._  
 
 You may find additional help and inspiration in the examples contained in the following repositories:
 
