@@ -19,6 +19,6 @@ The syllabus is live, checkout the course Sakai website.
 2. Find an interesting project online that uses OpenFrameworks, and bring the link to class
    - __hint:__ check out [CreativeApplications.net](http://www.creativeapplications.net/category/openframeworks/)[DevArt](https://devart.withgoogle.com/#/?q=openframeworks)
 
-__extra:__ Check out [this Medium post by Zach Lieberman](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e) (founder of OF) where he talks about his pratice of daily code sketches
+3. Read: [this Medium post by Zach Lieberman](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e) (founder of OF) where he talks about his pratice of daily code sketches
 
-3. Code Sketches: Look through the example "math" or "graphics" apps that came with openFrameworks (inside examples/graphics or examples/math). Choose one example app and copy the code to a new app you create. Now modify the code! Experiment - try "breaking" the code. Try making the app do something different in subtle or extreme ways.
+4. Code Sketches: Look through the example "math" or "graphics" apps that came with openFrameworks (inside examples/graphics or examples/math). Choose one example app and copy the code to a new app you create. Now modify the code! Experiment - try "breaking" the code. Try making the app do something different in subtle or extreme ways.
