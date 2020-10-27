@@ -117,11 +117,11 @@ Open OF Project Generator, and click Import.  Then select the app folder (i.e. "
 
 ## Homework:
 
-READ the following chapters of the ofBook:
-
 Review C++ Basics
 - [C++ Language Basics](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html) 
 - [ideone](https://ideone.com)
+
+READ the following chapters of the ofBook:
 
  - [Graphics](http://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
  - [OOPs!](http://openframeworks.cc/ofBook/chapters/OOPs!.html) <<< this is a deeper explanation of what we did in class
