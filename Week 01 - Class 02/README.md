@@ -15,7 +15,7 @@ Go to [openFrameworks.cc/download](http://openframeworks.cc/download/) and downl
 
 Unzip this file. You'll see a folder like `of_v0.11.0_osx_release`, which contains everything you need to use openFrameworks. 
 
-I recommend placing OF on your Desktop or Documents so it's easily accessible, i.e. `~/Desktop/of_v0.11.0_osx_release`.  You can also rename the folder to something nicer like `~/Desktop/openFrameworks` if you want.
+I recommend placing OF on your Desktop or Documents so it's easily accessible, i.e. `~/Documents/of_v0.11.0_osx_release`.  You can also rename the folder to something nicer like `~/Documents/openFrameworks` if you want.
 
 
 ## 2. Setup your IDE
@@ -55,20 +55,19 @@ Download the installer from [the Git website](https://git-scm.com/download/win).
 
 Use Github Desktop to clone the class repository. This will be demonstrated in class.
 
-OR
-
 Now clone this repository:
 
 https://github.com/benjaminbacon/ComputerGraphics2020
+
+The repository will clone to your `~/Documents/GitHub/ComputerGraphics2020` directory.
 
 ### Demonstration
 
 We will demonstrate in class how to clone and where your files are on your computer.
 
-Clone, Push and Pull.
+Clone, Push and Pull. How to upload your homework.
 
 ### Terminal (using the command line):
-
 
 - **cd folder** change directory to a folder inside the current directory
 - **cd ..** go back one directory
