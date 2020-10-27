@@ -8,6 +8,10 @@ Week 01 - Class 02
 
 ## Homework:
 
+Review C++ Basics
+- [C++ Language Basics](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html) 
+- [ideone](https://ideone.com)
+
 READ the following chapters of the ofBook:
 
  - [Graphics](http://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
