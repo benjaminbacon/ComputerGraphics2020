@@ -17,7 +17,9 @@ The syllabus is live, checkout the course Sakai website.
    - setup your GitHub homework repo
 
 2. Find an interesting project online that uses OpenFrameworks, and bring the link to class
-   - __hint:__ check out [CreativeApplications.net](http://www.creativeapplications.net/category/openframeworks/)[DevArt](https://devart.withgoogle.com/#/?q=openframeworks)
+   - __hint:__ check out
+     - [CreativeApplications.net](http://www.creativeapplications.net/category/openframeworks/)
+     - [DevArt](https://devart.withgoogle.com/#/?q=openframeworks)
 
 3. Read: [this Medium post by Zach Lieberman](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e) (founder of OF) where he talks about his pratice of daily code sketches
 
