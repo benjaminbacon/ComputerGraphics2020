@@ -79,6 +79,12 @@ further reading:
 - you can do the [Codecademy command line tutorial](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=lesson_resume) online (you need a free account)
 - or check out [this Lifehacker article](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) with some basics)
 
+### C++ Basics and Overview of openFrameworks (ofBook)
+
+- [Philosophy](https://openframeworks.cc/ofBook/chapters/of_philosophy.html)
+- [C++ Language Basics](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html) 
+- [oF structure](https://openframeworks.cc/ofBook/chapters/setup_and_project_structure.html)
+
 ### Object Oriented Programming:
 
  - we use **classes** to represent _types_ of things, "encapsulated" in neat packages
@@ -115,7 +121,7 @@ READ the following chapters of the ofBook:
 
  - [Graphics](http://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
  - [OOPs!](http://openframeworks.cc/ofBook/chapters/OOPs!.html) <<< this is a deeper explanation of what we did in class
- - [How OF Works](http://openframeworks.cc/ofBook/chapters/how_of_works.html)
+ - [How oF Works](http://openframeworks.cc/ofBook/chapters/how_of_works.html)
 
 USE this knowledge to create a few experimental apps of your own:
 
