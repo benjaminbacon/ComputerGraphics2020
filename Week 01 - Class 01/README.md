@@ -10,7 +10,7 @@ The syllabus is live, checkout the course Sakai website.
 
 ### Week 1 - Class 1: Course Homework
 
-1. Get setup - follow the instructions in [Setup](../Setup/README.md) 
+1. Get setup
    - download OF
    - install IDE & Git
    - clone class GitHub repo
