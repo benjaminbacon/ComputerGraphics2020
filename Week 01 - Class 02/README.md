@@ -1,5 +1,3 @@
-THis is a test update.
-
 # ComputerGraphics2020
 
 MEDIART 206: Computer Graphics - openFrameworks
