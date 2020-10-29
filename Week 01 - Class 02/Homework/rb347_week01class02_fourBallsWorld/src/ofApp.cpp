@@ -1,3 +1,5 @@
+
+// Rongqi Bei
 #include "ofApp.h"
 
 Boolean set_color = false;
