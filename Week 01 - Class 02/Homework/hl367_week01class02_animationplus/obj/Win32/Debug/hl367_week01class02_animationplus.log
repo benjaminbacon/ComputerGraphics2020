@@ -1,0 +1,9 @@
+﻿D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (obj\Win32\Debug\) 包含從其他專案 (hl367_week01class02_animation.vcxproj, hl367_week01class02_BouncingBalls.vcxproj, manyBouncingBalls.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  hl367_week01class02_animationplus.vcxproj -> D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_animationplus\bin\hl367_week01class02_animationplus_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_animationplus\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_animationplus\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_animationplus\bin\fmodexL.dll

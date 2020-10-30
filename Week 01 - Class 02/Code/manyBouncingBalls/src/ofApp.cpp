@@ -5,7 +5,7 @@ void ofApp::setup(){
 
 	ofBackground(0);
 
-	int numBalls = 30;
+	int numBalls = 5;
 
 	// fill our vector
 	for (int i = 0; i < numBalls; i++) {		// loop 30 times
@@ -25,7 +25,7 @@ void ofApp::update(){
 
 		balls[i].update();	// we can access an individual ball by its "index" number in the vector
 							// e.g. balls[0] is the first ball in the vector, balls[1] is the second ball, etc.
-									// (note that vectors always start at 0, not 1!!)
+							// (note that vectors always start at 0, not 1!!)
 	}
 }
 
@@ -41,7 +41,7 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-
+	
 }
 
 //--------------------------------------------------------------
@@ -61,7 +61,8 @@ void ofApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
-
+	Ball tempBall;					// create a temporary ball
+	balls.push_back(tempBall);		// copy the temporary ball into the balls vector
 }
 
 //--------------------------------------------------------------

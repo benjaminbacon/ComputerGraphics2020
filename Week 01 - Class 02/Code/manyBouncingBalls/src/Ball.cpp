@@ -25,7 +25,7 @@ Ball::Ball() {
 
 // update position, etc.
 void Ball::update() {
-
+	
 	x+=dirX;	// move along x by amount of dirX
 	y+=dirY;	// move along y by amount of dirY
 
@@ -51,12 +51,17 @@ void Ball::update() {
 		y = ofGetHeight() - radius;
 		dirY = -dirY;
 	}
+
 }
 
 
 // draw the ball
 void Ball::draw() {
-
+	
+	ofRotateZ(ofGetFrameNum() % 1000);
+	ofRotateX(ofGetFrameNum() % 1000);
+	ofRotateY(ofGetFrameNum() % 360);
 	ofSetColor(color);				// set the GLOBAL color
-	ofDrawCircle(x,y, radius);		// and draw
+	ofDrawTriangle(x - 35.355, y - 35.355, x + 35.355, y - 35.355, x, y + 35.355);
 }
+

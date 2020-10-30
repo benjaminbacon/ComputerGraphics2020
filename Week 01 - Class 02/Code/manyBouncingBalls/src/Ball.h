@@ -23,5 +23,5 @@ public:		// other classes can access the following functions & variables:
 	float dirX, dirY;	// "direction" (a.k.a. velocity or speed)
 
 	ofColor color;
-
+	
 };

@@ -1,0 +1,18 @@
+﻿D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (obj\Win32\Debug\) 包含從其他專案 (manyBouncingBalls.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  Ball.cpp
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\homework\hl367_week01class02_bouncingballs\src\ball.cpp(40): warning C4996: 'ofRotateZ': Use ofRotateZDeg or ofRotateZRad
+  d:\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1044): note: 請參閱 'ofRotateZ' 的宣告
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\homework\hl367_week01class02_bouncingballs\src\ball.cpp(41): warning C4996: 'ofRotateX': Use ofRotateXDeg or ofRotateXRad
+  d:\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1022): note: 請參閱 'ofRotateX' 的宣告
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\homework\hl367_week01class02_bouncingballs\src\ball.cpp(42): warning C4996: 'ofRotateY': Use ofRotateYDeg or ofRotateYRad
+  d:\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1033): note: 請參閱 'ofRotateY' 的宣告
+  hl367_week01class02_BouncingBalls.vcxproj -> D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_BouncingBalls\bin\hl367_week01class02_BouncingBalls_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_BouncingBalls\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_BouncingBalls\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\hl367_week01class02_BouncingBalls\bin\fmodexL.dll
