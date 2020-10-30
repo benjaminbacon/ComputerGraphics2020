@@ -228,7 +228,7 @@ void Ball::draw() {
     ofSetColor(color);
     ofDrawCircle(x, y, r);
     update();
-    
+
 }
 
 void Ball::collision(Ball b){
