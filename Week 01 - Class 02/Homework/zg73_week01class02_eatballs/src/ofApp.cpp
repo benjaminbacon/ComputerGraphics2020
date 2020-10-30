@@ -18,8 +18,10 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     ofSetColor(255, 0, 0);
-    ofDrawBitmapString("Tape c to create your ball, use w,a,s,d to control the move and use x to stop", 10, ofGetHeight()-30);
-    ofDrawBitmapString("Click to create balls", 10, ofGetHeight()-50);
+    ofDrawBitmapString("Tape c to create your ball, use w,a,s,d to control the move and use x to stop", 10, ofGetHeight()-50);
+    ofDrawBitmapString("Click to create balls", 10, ofGetHeight()-70);
+    ofDrawBitmapString("Tape k to let your ball become bigger, Tape j to let your ball become smaller", 10, ofGetHeight()-30);
+
     ofDrawBitmapString("You can control your ball to eat the ball", 10, ofGetHeight()-10);
     for(int i=0;i<group_of_balls.size();i++){
         for(int ii=0;ii<group_of_balls.size();ii++){
@@ -76,6 +78,21 @@ void ofApp::keyPressed(int key){
             }
         }
     }
+    if(key == 'k'){
+        for(int i=0;i<group_of_balls.size();i++){
+            if(group_of_balls[i].play == 1){
+                group_of_balls[i].r += group_of_balls[i].r*0.3;
+            }
+        }
+    }
+    if(key == 'j'){
+        for(int i=0;i<group_of_balls.size();i++){
+            if(group_of_balls[i].play == 1){
+                group_of_balls[i].r -= group_of_balls[i].r*0.3;
+            }
+        }
+    }
+    
 
 }
 
