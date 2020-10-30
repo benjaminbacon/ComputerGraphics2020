@@ -1,0 +1,22 @@
+﻿  Ball.cpp
+  Player.cpp
+  main.cpp
+  ofApp.cpp
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\Player.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\Player.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\Ball.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\Ball.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\刘蔼宁大一上\computergraphics2020\week 01 - class 02\homework\al443_week01class02_flyingball\src\ofapp.cpp(30): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+     Creating library bin\al443_week01class02_flyingBall_debug.lib and object bin\al443_week01class02_flyingBall_debug.exp
+  al443_week01class02_flyingBall.vcxproj -> D:\刘蔼宁大一上\ComputerGraphics2020\Week 01 - Class 02\Homework\al443_week01class02_flyingBall\bin\al443_week01class02_flyingBall_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *多余文件   		 6018560	D:\刘蔼宁大一上\ComputerGraphics2020\Week 01 - Class 02\Homework\al443_week01class02_flyingBall\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *多余文件   		 1266176	D:\刘蔼宁大一上\ComputerGraphics2020\Week 01 - Class 02\Homework\al443_week01class02_flyingBall\bin\fmodex.dll
+  	  *多余文件   		 1312768	D:\刘蔼宁大一上\ComputerGraphics2020\Week 01 - Class 02\Homework\al443_week01class02_flyingBall\bin\fmodexL.dll
