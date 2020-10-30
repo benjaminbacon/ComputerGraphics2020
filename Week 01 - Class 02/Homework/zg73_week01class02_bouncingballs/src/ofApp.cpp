@@ -2,7 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    ofBackground(255,255,255);
+    ofBackground(0,255,255);
     int number_of_balls = 50;
     for(int i=0;i<number_of_balls;i++){
         Ball *ball = new Ball();

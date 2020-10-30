@@ -61,10 +61,9 @@ void Ball::same(Ball a){
 }
 
 void Ball::crash(Ball a){
-    
     float distance = sqrt(pow(x-a.x,2)+pow(y-a.y,2));
     if (distance <= r+a.r){
-        
+
         float angle = atan2(abs(a.y-y),abs(a.x-x));
         float vx = cos(angle)*Vx+sin(angle)*Vy;
         float vy = sin(angle)*Vx+cos(angle)*Vy;
@@ -80,6 +79,7 @@ void Ball::crash(Ball a){
         Vy = v*sin(angle)+vy*cos(angle);
         a.Vx = cos(angle)*va-sin(angle)*vay;
         a.Vy = sin(angle)*va+cos(angle)*vay;
+
         
         distance = r+a.r-distance;
         if (x<=a.x){
@@ -87,12 +87,13 @@ void Ball::crash(Ball a){
             a.x += 3*distance/4;
         }
         else{
-            x += 3*distance/4;
+           x += 3*distance/4;
             a.x -= 3*distance/4;
         }
     }
-    
 }
+
+
 
 
 
