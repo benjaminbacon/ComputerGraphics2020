@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD:Week 01 - Class 02/Code/bouncingBall/bin/bouncingBallDebug.app/Contents/Info.plist
 	<string>19H2</string>
+=======
+	<string>19G73</string>
+>>>>>>> parent of 5a067b8... Week 1 Homework:Week 01 - Class 02/Homework/rb347_week01class02_ballAnimation/bin/rb347_week01class02_ballAnimationDebug.app/Contents/Info.plist
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
