@@ -57,11 +57,7 @@ void Ball::update() {
 
 // draw the ball
 void Ball::draw() {
-	
-	ofRotateZ(ofGetFrameNum() % 1000);
-	ofRotateX(ofGetFrameNum() % 1000);
-	ofRotateY(ofGetFrameNum() % 360);
 	ofSetColor(color);				// set the GLOBAL color
-	ofDrawTriangle(x - 35.355, y - 35.355, x + 35.355, y - 35.355, x, y + 35.355);
+	ofDrawTriangle(x - 10, y - 50, x + 20, y - 40, x, y + 20);
 }
 
