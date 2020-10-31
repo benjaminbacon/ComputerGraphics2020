@@ -1,0 +1,23 @@
+﻿  main.cpp
+  ofApp.cpp
+  Ball.cpp
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Ball.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Ball.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\main.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\main.cpp)
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\homework\rb347_week01class02_ballanimation\src\ofapp.cpp(24): warning C4018: '<': signed/unsigned 不相符
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\homework\rb347_week01class02_ballanimation\src\ofapp.cpp(41): warning C4018: '<': signed/unsigned 不相符
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\homework\rb347_week01class02_ballanimation\src\ofapp.cpp(42): warning C4018: '<': signed/unsigned 不相符
+     正在建立程式庫 bin\rb347_week01class02_ballAnimation_debug.lib 和物件 bin\rb347_week01class02_ballAnimation_debug.exp
+  rb347_week01class02_ballAnimation.vcxproj -> D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\rb347_week01class02_ballAnimation\bin\rb347_week01class02_ballAnimation_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	    New File  		 1266176	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    New File  		 1312768	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\rb347_week01class02_ballAnimation\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Homework\rb347_week01class02_ballAnimation\bin\fmodexL.dll
+  	    New File  		 6018560	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll

@@ -1,0 +1,17 @@
+﻿  Ball.cpp
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\code\manybouncingballs\src\ball.cpp(61): warning C4996: 'ofRotateZ': Use ofRotateZDeg or ofRotateZRad
+  d:\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1044): note: 請參閱 'ofRotateZ' 的宣告
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\code\manybouncingballs\src\ball.cpp(62): warning C4996: 'ofRotateX': Use ofRotateXDeg or ofRotateXRad
+  d:\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1022): note: 請參閱 'ofRotateX' 的宣告
+d:\of_v0.11.0_vs2017_release\apps\github\computergraphics2020\week 01 - class 02\code\manybouncingballs\src\ball.cpp(63): warning C4996: 'ofRotateY': Use ofRotateYDeg or ofRotateYRad
+  d:\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1033): note: 請參閱 'ofRotateY' 的宣告
+  manyBouncingBalls.vcxproj -> D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Code\manyBouncingBalls\bin\manyBouncingBalls_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Code\manyBouncingBalls\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Code\manyBouncingBalls\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.11.0_vs2017_release\apps\GitHub\ComputerGraphics2020\Week 01 - Class 02\Code\manyBouncingBalls\bin\fmodexL.dll
