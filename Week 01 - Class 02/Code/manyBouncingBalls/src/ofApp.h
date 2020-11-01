@@ -22,7 +22,6 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 
-		
 		vector<Ball> balls;		// a vector of type Ball
 								// vectors are like arrays of variable size
 		
