@@ -12,7 +12,7 @@ E-mail your GitHub URL to me.
 
 ## Watch Videos From The China Academy of Art - School of Intermedia Art Student Show from Ningbo
 
-
+## Code Examples in Class
 
 * **BouncingBall** adding acceleration (gravity) to the old Bouncing Ball example
 * **Zeno** illustration of interpolation and "Zeno" easing technique
