@@ -8,7 +8,11 @@ Week 02 - Class 03
 
 ## Using GitHub Desktop To Create Your New Homework Repository 
 
-E-mail the URL to me.
+E-mail your GitHub URL to me.
+
+## Watch Videos From The China Academy of Art - School of Intermedia Art Student Show from Ningbo
+
+
 
 * **BouncingBall** adding acceleration (gravity) to the old Bouncing Ball example
 * **Zeno** illustration of interpolation and "Zeno" easing technique
