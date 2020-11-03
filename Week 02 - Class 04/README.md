@@ -6,6 +6,52 @@ Fall Session 2 2020
 
 Week 02 - Class 04
 
+
+## Notes
+
+[oFBook Code Examples GitHub](https://github.com/openframeworks/ofBook/tree/master/chapters)
+
+## Issues, Bugs and Fixes
+
+If you encounter errors with ofAppGlutWindow.h:
+
+```
+#include "ofMain.h"
+#include "ofApp.h"
+#include "ofAppGlutWindow.h"
+ 
+//========================================================================
+int main( ){
+ 
+    ofAppGlutWindow window;
+         ofSetupOpenGL(&window, 1024,768, OF_WINDOW);                    // <-------- setup the GL context
+ 
+         // this kicks off the running of my app
+         // can be OF_WINDOW or OF_FULLSCREEN
+         // pass in width and height too:
+         ofRunApp( new ofApp());
+}
+``` 
+
+Modify the code to  this:
+
+```
+#include "ofMain.h"
+#include "ofApp.h"
+ 
+//========================================================================
+int main( ){
+         ofSetupOpenGL(1024,768, OF_WINDOW);                   // <-------- setup the GL context
+ 
+         // this kicks off the running of my app
+         // can be OF_WINDOW or OF_FULLSCREEN
+         // pass in width and height too:
+         ofRunApp( new ofApp());
+}
+ "
+ ```
+ 
+ Newer versions of oF and macOS break some of the older code.
 ## Homework
 
 1. ### **Act Natural**
