@@ -20,6 +20,6 @@ If it is a homework assignment, the assignment is graded 50% technical and 50% c
 
 * Aesthetic: The project is visually/sonically well resolved. This does not necessarily mean that your work is beautiful, but it must show a careful consideration of aesthetic choices where close attention has been paid to details such as font choices, color palette and compositional rhythm. These elements relate to the concept and intention behind the work.
 
-If the assignment is your midterm or final project then documentation is also considered. So the breakdown would be 25% for techical, 25% for concept, 25% for aesthetic and 25% for documentation.
+If the assignment is your midterm or final project then documentation is also considered. So the breakdown would be 25% for technical, 25% for concept, 25% for aesthetic and 25% for documentation.
 
 * Well documented: The presentation and proposal describing your project is well written, in sophisticated grammatically correct English. Your documentation shows project research and includes references to influences and research materials. It also includes appropriate visual/sonic materials documenting your work such as screenshots, GIFS or video material. It should clearly explain the intention behind your work to a non-expert audience. It should also include a link to the code on  Github.
