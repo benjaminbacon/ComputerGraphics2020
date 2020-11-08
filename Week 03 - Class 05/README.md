@@ -51,5 +51,23 @@ If the assignment is your midterm or final project then documentation is also co
 
     **[Here's the first episode on creating a GUI using ofxGUI](https://www.youtube.com/watch?v=X_is1x8iVtw&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr&index=20)**
 
-    (Note that the older episodes are ~5 years old, so some things like oF Project Generator will look a little different, but the principles are still relevant)
+### Sketches
+
+1. **Interstellar**
+
+    Create a "space" scene, taking inspiration from the orbital motion of galaxies, stars, planets, moons, comets, asteroids... (... and black holes? :sweat_smile:)  Get creative, and don't feel limited by duplicating the _actual_ laws of physics.  You can modify physics to suit your ideas!
+      
+    Your objects (e.g. your stars, planets, or asteroids, etc.) should be instances of classes that you design.  They should use **forces** like **_attraction_** and **_repulsion_** (or design your own forces).
+    
+    Now make it interactive! :innocent:
+    
+    **Bonus:** Game-ify it!  Think about classic space shooters, like [Asteroids](https://www.kevs3d.co.uk/dev/asteroids/index-debug.html)...
+
+2. **Firework Display** 
+
+    Using **particle systems**, create a sketch that makes colorful firework-like explosions.  The "explosions" should be composed of **_particles_** that _decay_ over time (and probably are affected by gravity, or other forces)...
+    
+    **Bonus:** Make an interactive firework *launcher* (for example, angle and force of launch is controlled by mouse - think *Angry Birds*...)
+    
+    
     
