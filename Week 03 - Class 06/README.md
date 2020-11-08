@@ -19,7 +19,7 @@ Week 03 - Class 06
  
  ### Sketches
  
- 1. Fatal Attraction
+**1. Fatal Attraction**
  
 Using forces, create a sketch that is a game about love using **attraction** and **repulsion**. Get creative, and don't feel limited by duplicating the actual laws of physics but the laws of attraction. Your objects should be instances of classes that you design similar to last sessions course. They should use **forces** like **attraction** and **repulsion** (or design your own forces). It must be an interactive game!
 
