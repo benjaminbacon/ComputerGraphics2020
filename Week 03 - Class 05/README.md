@@ -8,7 +8,7 @@ Week 03 - Class 05
 
 ## Creative Grading
 
-If it is a homework assignment, the assignment is graded 50% technical and 50% creative. Many of you have asked what is meant by creative. Below you can find what is defined as techical and creative. 
+If it is a homework assignment, the assignment is graded 50% technical and 50% creative. Many of you have asked what is meant by creative. Below you can find what is defined as technical and creative. 
 
 50% Technical
 
