@@ -90,7 +90,7 @@ A vector with a magnitude of 1.0 is called a _unit vector_.
 To **normalize**, we just divide the vector by its magnitude: 
 
 ```c++
- glm::vec2 vec     = glm::vec2(3,3);
+ glm::vec2 vec    = glm::vec2(3,3);
  float length     = glm::length(vec);
 
  glm::vec2 normVec;
@@ -116,12 +116,12 @@ To get the direction, we **normalize** the vector between the objects:
 ```c++
  // Attraction
 
- glm::vec2 dir                 = target.pos - mover.pos;
+ glm::vec2 dir               = target.pos - mover.pos;
  float distance              = glm::length(dir);
- float attractionStrength     = 0.5; 
+ float attractionStrength    = 0.5; 
 
  if (length != 0) {
-     glm::vec2 attraction     = dir/distance * attractionStrength;
+     glm::vec2 attraction    = dir/distance * attractionStrength;
      mover.applyForce(attraction);
  }
  ```
@@ -131,7 +131,7 @@ To get the direction, we **normalize** the vector between the objects:
 ```c++
  // Repulsion
 
- glm::vec2 dir                 = target.pos - mover.pos;
+ glm::vec2 dir               = target.pos - mover.pos;
  float distance              = glm::length(dir);
  float repulsionStrength     = 0.5; 
 
@@ -149,7 +149,7 @@ We create a **damping** force by pushing on the object in the inverse direction 
 ```c++
  float speed             = glm::vec2(mover.velocity);
  if (speed != 0) {
-     glm::vec2 damping     = mover.velocity / speed * -0.01;     // 0.01 damping
+     glm::vec2 damping   = mover.velocity / speed * -0.01;     // 0.01 damping
      mover.applyForce(damping);
  }
  ```
@@ -174,5 +174,3 @@ and removing particles when the vector is getting too large:
      particles.erase(particles.begin());     // erase the first particle from the vector
  }
  ```
-
-
