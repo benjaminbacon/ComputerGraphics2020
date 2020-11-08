@@ -12,7 +12,7 @@ Your midterm project package will include: a project proposal due one week befor
 
 Start by coming up with a general project concept. What do you want to visualize or create? What type of animation and interaction would help you achieve that goal? Now break that idea down into classes: what are the core elements of your concept? What attributes do those elements have (variables)? What behaviours could they exhibit (functions)?
 
-You should have a concept and some rough, initial prototype code ready to share with me before the next class as a project proposal, **Wed, Nov. 11th**. An example proposal will be shared with you in class. **The proposal should be about 750 words. Your proposals will be returned to you **before 12:00, Fri, Nov. 13th**.
+You should have a concept and some rough, initial prototype code ready to share with me before the next class as a project proposal, **Wed, Nov. 11th**. An example proposal will be shared with you in class. **The proposal should be about 750 words. Your proposals will be returned to you before 12:00, Fri, Nov. 13th**.
 
 * **Code an app in C++/openFrameworks that produces an interactive animation**, and which speaks to your own artistic or design interests!
 
