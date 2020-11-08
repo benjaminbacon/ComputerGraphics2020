@@ -54,3 +54,6 @@ Focus on mouse and keyboard!  Keep it simple first...
     void mouseExited(int x, int y);
     void windowResized(int w, int h);
 ```
+- **GUIs: If you're interested in creating a quick UI, check out [Lewis Lepton's YouTube channel](https://www.youtube.com/watch?v=X_is1x8iVtw&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr&index=20)**, where he goes through using ofxGUI for animation.  
+
+I encourage you to focus on the animation aspects - try to figure out how to create the motion and the colors, shapes, and images that you envision.  Be sure you achieve that core animation before you get too caught up in addons, or extra technologies for fancy interactions. Your effort should be primarily on the look and feel of your animated "world".
