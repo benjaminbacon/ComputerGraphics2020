@@ -24,6 +24,10 @@ If the assignment is your midterm or final project then documentation is also co
 
 * Well documented: The presentation and proposal describing your project is well written, in sophisticated grammatically correct English. Your documentation shows project research and includes references to influences and research materials. It also includes appropriate visual/sonic materials documenting your work such as screenshots, GIFS or video material. It should clearly explain the intention behind your work to a non-expert audience. It should also include a link to the code on  Github.
 
+## MIDTERM
+
+**[Midterm Instructions](./midterm/readme.md)**
+
 ## Example Code
 
 ### From in-class code:
