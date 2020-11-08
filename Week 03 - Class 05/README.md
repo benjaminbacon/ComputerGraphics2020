@@ -26,7 +26,7 @@ If the assignment is your midterm or final project then documentation is also co
 
 ## MIDTERM
 
-**[Midterm Instructions](./midterm/readme.md)**
+**[Midterm Instructions](midterm/readme.md)**
 
 ## Example Code
 
