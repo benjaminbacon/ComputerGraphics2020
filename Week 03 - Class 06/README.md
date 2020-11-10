@@ -6,6 +6,10 @@ Fall Session 2 2020
 
 Week 03 - Class 06
 
+## Final Exam
+
+**Monday December 14th, 15:30 - 18:30 -- Room IB1012**
+
 ## Code Examples
 
  - **00_attraction-repulsion_in-class** apply attraction and repulsion forces to a grid of "Movers", in-class coding exercise
