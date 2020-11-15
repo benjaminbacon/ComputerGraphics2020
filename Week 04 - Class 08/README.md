@@ -197,7 +197,7 @@ boxSize += 3;                        // box.size += 3
 
 **Code:**
 
-1. **Finisg your midterm project.**
+1. **Finish your midterm project.**
 
 2. Work on a sketch of your choosing.  You could:
 
