@@ -218,3 +218,4 @@ boxSize += 3;                        // box.size += 3
 
 4. Read the **[Preliminaries to Image Processing](http://openframeworks.cc/ofBook/chapters/image_processing_computer_vision.html#preliminariestoimageprocessing)** section of **ofBook**  
     - explains how pixels are stored in memory & shows how to access and manipulate them
+

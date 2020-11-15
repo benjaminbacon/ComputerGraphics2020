@@ -61,3 +61,4 @@ If you encounter the error, change the code similar to below
 ## Homework
 
 There is no homework for today. Work on your midterm application and presentation. **We will have homework next course so use this time wisely.**
+
