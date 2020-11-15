@@ -8,7 +8,7 @@ Week 04 - Class 08 + Week 05 - Class 09
 
 ## Midterm Presentations Day Change
 
-Due to a couple of logisitcal issues, we will hold the midterm presentations and application demos on **Monday, November 23rd - Week 05: Course 09** 
+Due to a couple of logisitcal issues, we will hold the midterm presentations and application demos on **Monday, November 23rd - Week 05: Class 09** 
 
 - Your midterm propsals are really good. Thanks!
 
@@ -197,19 +197,24 @@ boxSize += 3;                        // box.size += 3
 
 **Code:**
 
-1. **Fix up your midterm project**
+1. **Finisg your midterm project.**
 
 2. Work on a sketch of your choosing.  You could:
 
  - Rework an old project from your homework repo into a 3D scene
+ 
+ OR
+ 
  - Prototype an idea or technique you might want to use for your final
+ 
+ OR 
+ 
  - Try out an [ofxAddon](http://www.ofxaddons.com/)
 
 **Reading:** 
 
-3. Read the [**Generating Meshes from Image**](http://openframeworks.cc/ofBook/chapters/generativemesh.html) chapter of ofBook  
+3. Read the [**Generating Meshes from Image**](http://openframeworks.cc/ofBook/chapters/generativemesh.html) chapter of **ofBook**  
    - this will review 3D meshes and introduces image sampling
-   - Note: _For more information on 3D meshes (apart from the example projects)  
 
 4. Read the **[Preliminaries to Image Processing](http://openframeworks.cc/ofBook/chapters/image_processing_computer_vision.html#preliminariestoimageprocessing)** section of **ofBook**  
     - explains how pixels are stored in memory & shows how to access and manipulate them

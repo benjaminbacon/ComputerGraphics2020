@@ -8,7 +8,7 @@ Week 04 - Class 07
 
 ## Midterm Presentations Day Change
 
-Due to a couple of logisitcal issues, we will hold the midterm presentations and application demos on **Monday, November 23rd - Week 05: Course 09** 
+Due to a couple of logisitcal issues, we will hold the midterm presentations and application demos on **Monday, November 23rd - Week 05: Class 09** 
 
 - Your midterm propsals are really good. Thanks!
 
