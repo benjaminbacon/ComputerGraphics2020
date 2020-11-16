@@ -16,7 +16,7 @@ Due to a couple of logisitcal issues, we will hold the midterm presentations and
 
 - This allows you several extra days to polish your presentation and application. If you have questions, e-mail or come to my office hours.
 
-- Please upload your presentation and application to your Github **before midnight Saturday, November 21st**. I will check the timestamp. 
+- Please upload your presentation and application to your Github **before midnight Sunday, November 22nd**. I will check the timestamp. 
 
 - Because of this we will combine course 08 and course 09 lectures into one lecture for the next course (course 08). This will leave course 09 for only presentations and application demos.
 
