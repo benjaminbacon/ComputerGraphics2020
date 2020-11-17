@@ -23,9 +23,11 @@ Due to a couple of logisitcal issues, we will hold the midterm presentations and
 ## Currnet Grade Distribution 
 
 - 5 Homework Assignments. 
-- These count for 10% of your final grade.
+- Total of 10 homework assignments.
+- This count for 10% of your final grade.
 
 ``` c++  
+
     2 x A+
     1 x A-
     1 x B+
@@ -35,7 +37,11 @@ Due to a couple of logisitcal issues, we will hold the midterm presentations and
     2 x C
     1 x D
     4 x F
-
+    
+            *
+            *
+    * *   * *
+    *********
 ```
 
 ## Example Code
