@@ -20,6 +20,24 @@ Due to a couple of logisitcal issues, we will hold the midterm presentations and
 
 - Because of this we will combine course 08 and course 09 lectures into one lecture for the next course (course 08). This will leave course 09 for only presentations and application demos.
 
+## Currnet Grade Distribution 
+
+- 5 Homework Assignments. 
+- These count for 10% of your final grade.
+
+``` c++  
+    2 x A+
+    1 x A-
+    1 x B+
+    1 x B
+    2 x B-
+    1 x C+
+    2 x C
+    1 x D
+    4 x F
+
+```
+
 ## Example Code
 
 ### Vector/Collision
