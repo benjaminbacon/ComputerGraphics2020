@@ -15,9 +15,9 @@ My MacBook Pro nds to go into the repair shop. I need to migrate your GitHUB to 
 
 ## Final Project Information
 
-*START THE FINAL, PROPOSAL DUE MON, NOV 30th*
+**START THE FINAL, PROPOSAL DUE MON, NOV 30th**
 
-*DUE --> Monday December 14th, 15:30 - 18:30 -- Room IB1012*
+**DUE --> Monday December 14th, 15:30 - 18:30 -- Room IB1012**
 
 
 Your final project package will include: a project proposal due one week before presentations, you’re working final application, the code from your application and the PowerPoint you use during your presentation.
@@ -31,7 +31,7 @@ I encourage you to focus on the use of computer vision to create software that c
 
 Similar to your midterm project, you are welcome to combine this project with other classwork or outside work - but you must use openFrameworks, and there must be at least one ofxAddon combined with interactive elements such as computer vision, meshes, 3D data (Kinect), video, AR/VR, shaders and rendering to your application. You will demonstrate your application in front of class and present your code as a logical walkthrough of it. You should organize your code using classes, objects, methods, ofxAddons, and any of the C++ programming techniques we've learned throughout the course.
 
-Be ready to demo the app on the big screen in class on *Monday, Dec. 14th*.
+Be ready to demo the app on the big screen in class on **Monday, Dec. 14th**.
 
 You should organize your code using classes, objects, vector, and any of the C++ programming techniques we've learned so far in a PPT for the presentation.
 
