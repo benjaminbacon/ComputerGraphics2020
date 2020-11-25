@@ -11,6 +11,7 @@ Week 05 - Class 10
 **1. Homework (Due on the normal weekly schedule):**
  
 - Create a new (don’t use old homework code or example code from class) open Frameworks application that has the theme “Winter is coming”. This could be literal or figurative. Examples could be a game about the white walkers from Game of Thrones, a story book about the 4 seasons of the year, etc. Make sure you use interactive, animation, OOP (classes) and 3D techniques learned in class.
+
 	 
 	**2. Course topics for the rest of the session**
 	 
