@@ -7,6 +7,8 @@ Week 06 - Class 12 - Thursday December 2nd – OfXaddons, Text Input, Image Proc
 
 # UPDATES
 
+## Code
+
 ## Review
 
 ## Homework
