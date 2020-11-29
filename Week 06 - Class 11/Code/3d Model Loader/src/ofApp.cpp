@@ -53,8 +53,9 @@ void ofApp::update(){
 	{
 		// add x, y noise to vertices
 		
-		vector<ofVec3f>& vertices = meshes[i].getVertices();
-		
+        vector<glm::vec3>& vertices = meshes[i].getVertices();
+        //vector<ofVec3f> vertices = meshes[i].getVertices();
+        
 		for (int j=0; j<vertices.size(); j++)
 		{
 			
