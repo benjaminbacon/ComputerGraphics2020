@@ -178,6 +178,7 @@ Check out and read up about the Kinect V2 add-on and how to install it on Mac an
 ### Kinect V2 Tutorials
 
 **We will go over this code next class:**
+
 Lewis Lepton
 
 [openFrameworks Tutorial Series - Episode 035 - ofxKinectV2](https://www.youtube.com/watch?v=yeBcKppa9UM)
