@@ -171,8 +171,9 @@ READ:  [Preliminaries to Image Processing](http://openframeworks.cc/ofBook/chapt
   Animate your world with motion and color (and lighting if you wish).
 
 
-### Check out and read up about the Kinect V2 add-on and how to install it on Mac and Windows: [ofxKinectV2](https://github.com/ofTheo/ofxKinectV2). We are using th ```Kinect for X-Box (V2)``` Model 1520. We will dig deep into it next class. You can check out a Kinect V2 from the Media & Arts cage.
+### KINECT V2
 
+Check out and read up about the Kinect V2 add-on and how to install it on Mac and Windows: [ofxKinectV2](https://github.com/ofTheo/ofxKinectV2). We are using th ```Kinect for X-Box (V2)``` Model 1520. We will dig deep into it next class. You can check out a Kinect V2 from the Media & Arts cage.
 
 ### Kinect V2 Tutorials
 
