@@ -27,9 +27,7 @@ Create a new (don’t use old homework code or example code from class) open Fra
 
 ## Code
 
- - **3dModelLoader**  - load and modify a 3D model mesh
-  * uses ofxAssimpModelLoader addon
-  * loads OBJ format 3D model (PLY also works)
+ - **3dModelLoader**  - load and modify a 3D model mesh, uses ofxAssimpModelLoader addon, loads OBJ format 3D model (PLY also works)
   - **backgroundSubtraction**  - "remove" the background from an image
 - **blendmodes**  - demos how to use ofBlendMode to achieve image blending
 - **blobDetector**  - detect image regions based on brightness
