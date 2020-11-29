@@ -27,14 +27,14 @@ Create a new (don’t use old homework code or example code from class) open Fra
 
 ## Code
 
- - **3dModelLoader**  - load and modify a 3D model mesh, uses ofxAssimpModelLoader addon, loads OBJ format 3D model (PLY also works)
-  - **backgroundSubtraction**  - "remove" the background from an image
-- **blendmodes**  - demos how to use ofBlendMode to achieve image blending
-- **blobDetector**  - detect image regions based on brightness
+ - **3d Model Loader**  - load and modify a 3D model mesh, uses ofxAssimpModelLoader addon, loads OBJ format 3D model (PLY also works)
+- **Background Subtraction**  - "remove" the background from an image
+- **Blend Modes**  - demos how to use ofBlendMode to achieve image blending
+- **Blob Detector**  - detect image regions based on brightness
 - **Color Channels** - separate the color channels of an image
 - **Mesh Faces** - access and adjust the faces of a mesh
 - **Mesh Webcam** - distort the vertices of a textured mesh based on image brightness
-- **pixelShifter** - glitch-art, shifting locations of pixels in image
+- **Pixel Shifter** - glitch-art, shifting locations of pixels in image
 - **Pixel Data** - write pixels to memory and create an image from scratch!
 - **Glitch** - shift pixels to create glitch effect
 - **Mesh Texture** -  draw a sphere mesh with lighting and planet texture
@@ -178,11 +178,15 @@ READ:  [Preliminaries to Image Processing](http://openframeworks.cc/ofBook/chapt
 
 **We will go over this code next class:**
 Lewis Lepton
+
 [openFrameworks Tutorial Series - Episode 035 - ofxKinectV2](https://www.youtube.com/watch?v=yeBcKppa9UM)
+
 [openFrameworks Tutorial Series - Episode 036 - ofxKinectV2 haar](https://youtu.be/YCduMQTZq_w)
 
 Dan Buzzo
+
 [Kinect2 Natural Interaction Skeleton Tracking Tutorial in openFrameworks: Part 01](https://www.youtube.com/watch?v=HF74L-DvCUE)
+
 [Kinect2 Natural Interaction Skeleton Tracking Tutorial in openFrameworks: Part 02](https://www.youtube.com/watch?v=Hn_onMOUcno)
 
 You will need to install [LibFreenect2](https://github.com/OpenKinect/libfreenect2/) AND [ofxNI2](https://github.com/roymacdonald/ofxNI2 ) to get this working. Follow the instructions on the GitHub page. 
