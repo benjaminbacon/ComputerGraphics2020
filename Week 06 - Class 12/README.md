@@ -7,7 +7,7 @@ Week 06 - Class 12 - Thursday December 2nd – OfXaddons, Text Input, Image Proc
 
 # UPDATES
 
-- We will hold the student showcase during the first week of session 3. 
+- We will hold the student showcase during the first week of session 3.
 
 ## KINECT V2
 
@@ -27,12 +27,12 @@ You can check out a Kinect V2 from the Media & Arts cage.
 - **Inherited Brushes** - Create drawing tools.
 - **Keyboard Strings** - Keyboard input examples.
 - **Pixel Maker** - Write pixels to memory and create an image from scratch.
-- **Pointer Allocate ** - Explore advanced use of pointers.
+- **Pointer Allocate** - Explore advanced use of pointers.
 - **Pointer Peeper** - See what your pointer is pointing too
-  
+	  
 **KINECT**
- - **035_ofxKinectV2** - ofxKinectV2.
-- **036_ofxKinectV2Haar** - ofxKinectV2.
+ - **035\_ofxKinectV2** - ofxKinectV2.
+- **036\_ofxKinectV2Haar** - ofxKinectV2.
 - **kinect2-NI-ParticlePainter** - ofxNI2..
 
 ## Review
