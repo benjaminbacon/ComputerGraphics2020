@@ -25,8 +25,7 @@ You can check out a Kinect V2 from the Media & Arts cage.
 - **Shader Mask** - Mask one image texture using another (eg. create a spotlight effect)
 - **Fragment Shader** - Fragment shader masking and `ofFbo` (FBO = `frame buffer object` off-screen drawing canvas)
 - **Vertex Shader** - Distort a 3D plane mesh using a vertex shader (sin waves)
-- **ofxCV Face Detect Tracking** - ofxCV blob tracking, face detection and tracking, ofxTSNE example
-- **Face Tracker - AR** - Track your face and a hat on the top of your head.
+- **Face Tracker - AR** - Track your face and a hat on the top of your head. ofxCV blob tracking, face detection and tracking, ofxTSNE example.
 - **ofPath To Mesh** - ofxAddon ofPath to create a mesh.
 	  
 **KINECT**
